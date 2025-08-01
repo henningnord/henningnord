@@ -6,18 +6,15 @@ Working part-time as a full-stack developer at UiO. Passionate about low-level p
 ---
 
 ### 📈 GitHub Stats
-
-![Henning's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henningnord&show_icons=true&theme=default&hide=prs)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henningnord&layout=compact&theme=default)
 
 ---
 
 ### 📬 Contact
 
-- 📧 [henningnord@example.com](mailto:henningnord@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/henningnord)  
-- 🌐 [henningnord.dev](https://henningnord.dev) <!-- (optional personal website) -->
+- 📧 [henning.osmo@gmail.com](mailto:henning.osmo@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/henningnordhagen)  
+- 🌐 [henningnord.dev](https://henningnord.no) <!-- (optional personal website) -->
 
 ---
 <!--
