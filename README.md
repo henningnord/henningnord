@@ -1,11 +1,11 @@
-## 👋 Hi there!
+## Hi there!
 
-I'm a full-time informatics student at the University of Oslo, currently in my final bachelor year and planning to pursue a master's.  
-Working part-time as a full-stack developer at UiO. Passionate about low-level programming, systems, and building real-world software.
+I'm Henning, a full-time computer science student at the University of Oslo, currently in my final bachelor year and planning to pursue a master's.  
+Full-stack dev at UiO. Into systems and low-level code.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henningnord&layout=compact&theme=default)
 
 ---
