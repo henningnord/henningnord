@@ -4,8 +4,6 @@ I'm Henning, a full-time computer science student at the University of Oslo, cur
 Full-stack dev at UiO. Into systems and low-level code.
 
 ---
-
-### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henningnord&layout=compact&theme=default)
 
 ---
