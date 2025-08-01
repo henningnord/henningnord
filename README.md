@@ -14,7 +14,7 @@ Working part-time as a full-stack developer at UiO. Passionate about low-level p
 
 - 📧 [henning.osmo@gmail.com](mailto:henning.osmo@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/henningnordhagen)  
-- 🌐 [henningnord.dev](https://henningnord.no) <!-- (optional personal website) -->
+- 🌐 [henningnordhagen.no](https://henningnordhagen.no) <!-- (optional personal website) -->
 
 ---
 <!--
